@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: Leopards
 
 manager: Nora
@@ -7,3 +8,6 @@ members:
 - William
 - David
 - Olivia
+=======
+coach: Oscar
+>>>>>>> add-coach
