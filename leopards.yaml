@@ -9,5 +9,9 @@ members:
 - David
 - Olivia
 =======
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 21c7a99 (Edit Leopards)
 >>>>>>> add-coach
