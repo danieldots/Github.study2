@@ -1,14 +1,6 @@
 team: Tigers
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 manager: Brenda
-=======
-manager: Deborah
->>>>>>> to-merge
-=======
-manager: Deborah
->>>>>>> e3baa42 (Edit Tigers members)
 
 coach: Ruth
 
@@ -17,4 +9,3 @@ members:
 - William
 - David
 - George
-- Tyler
